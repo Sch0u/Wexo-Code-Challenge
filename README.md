@@ -4,7 +4,7 @@ This is a code challenge i got by wexo, ITS STILL UNDER DEVELOPMENT!
 ## Description
 
 I made this as a HF 1 project in school, for a company called Wexo as a recruitment task.
-It's not and not pretty but its my atempt.
+It's not done and not pretty but its my atempt.
 
 ### Dependencies
 
