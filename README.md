@@ -8,7 +8,7 @@ It's not and not pretty but its my atempt.
 
 ### Dependencies
 
-XAMPP
+XAMPP,
 Create a DB with the different elements used in the code.
 
 ### Installing
